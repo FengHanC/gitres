@@ -6,4 +6,5 @@
 git log 查看提交日志（查看日志id）
 git reset --hard 日志id（取一小段6-8个左右，git会自动补全）
 
-分支文件的修改
+分支文件的修改和提交
+	git commit -am 'first' 一步搞定已经提交过的文件（执行过git add）的修改
