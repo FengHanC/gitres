@@ -5,3 +5,11 @@
 以上两边只有对文件有修改就要执行。
 git log 查看提交日志（查看日志id）
 git reset --hard 日志id（取一小段6-8个左右，git会自动补全）
+查看分支
+	git branch
+添加分支
+	git branch dev （dev分支名）
+切换分支
+	git checkout dev
+合并分支
+	git merge dev (切换回主分支使用)
