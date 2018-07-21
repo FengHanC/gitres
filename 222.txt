@@ -1,2 +1,3 @@
 未被git add 的文件 提交要使用 git add .和git commit -m 'first'
 已经被git add的文件 修改之后 可以直接使用git commit -am 'next' 提交 
+测试发现'解释文字不能有空格'
